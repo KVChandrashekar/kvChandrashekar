@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/chandra_1103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandra_1103" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chandrashekara-k-v-539a8b171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandrashekara-k-v-539a8b171/" height="30" width="40" /></a>
-<a href="https://fb.com/chandrashekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandrashekar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008186891011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandrashekar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

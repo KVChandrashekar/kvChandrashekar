@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://kvchandrashekar.github.io/Portfolio/](https://kvchandrashekar.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, Data Analysis, FrontEnd Development**
+- 💬 Ask me about **Python, Data Engineer, Data Analysis, FrontEnd Development**
 
 - 📫 How to reach me **16chandrashekarakv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xbRd_ZXrUtJq_mEfxdo6DT-Gqh1gY-ow/view?usp=sharing](https://drive.google.com/file/d/1xbRd_ZXrUtJq_mEfxdo6DT-Gqh1gY-ow/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1xbRd_ZXrUtJq_mEfxdo6DT-Gqh1gY-ow/view?usp=sharing](https://drive.google.com/file/d/1xbRd_ZXrUtJq_mEfxdo6DT-Gqh1gY-ow/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

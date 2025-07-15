@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/chandra_1103" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_1103?logo=twitter&style=for-the-badge" alt="chandra_1103" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Apache Spark .........**
+- 🌱 I’m currently learning **AWS, PySpark .........**
 
 - 👨‍💻 All of my projects are available at [https://kvchandrashekar.github.io/Portfolio/](https://kvchandrashekar.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, Data Engineer, Data Analysis, FrontEnd Development**
+- 💬 Ask me about **Data Engineer, Data Analyst, Python developer**
 
 - 📫 How to reach me **16chandrashekarakv@gmail.com**
 

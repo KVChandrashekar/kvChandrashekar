@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🤗, I'm Chandrashekara KV</h1>
-<h3 align="center">A Passionate DataScience Enthusiast from Karnataka, India</h3>
+<h3 align="center">I'm Data Enginner from Karnataka, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvchandrashekar&label=Profile%20views&color=0e75b6&style=flat" alt="kvchandrashekar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chandra_1103" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_1103?logo=twitter&style=for-the-badge" alt="chandra_1103" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, PySpark .........**
+- 🌱 I’m currently learning **Agentic AI.........**
 
 - 👨‍💻 All of my projects are available at [https://kvchandrashekar.github.io/Portfolio/](https://kvchandrashekar.github.io/Portfolio/)
 
